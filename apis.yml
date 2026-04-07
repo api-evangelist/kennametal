@@ -1,7 +1,11 @@
 aid: kennametal
-url: https://raw.githubusercontent.com/api-evangelist/kennametal/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/kennametal/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.kennametal.com
+description: >-
+  Kennametal is a leading provider of productivity solutions for metalworking, earth
+  cutting, and wear components, coatings, and powders.
