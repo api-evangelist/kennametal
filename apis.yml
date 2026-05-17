@@ -5,7 +5,7 @@ description: >-
   earth cutting, and wear components, coatings, and powders. Kennametal offers
   online integration services including Punch-Out / OCI (Open Catalog Interface),
   EDI, and a Product Data Portal for catalog and product information.
-type: Company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Metalworking
