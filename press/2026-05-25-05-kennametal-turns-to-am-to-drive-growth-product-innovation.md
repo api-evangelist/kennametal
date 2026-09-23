@@ -1,7 +1,9 @@
 ---
 title: Kennametal Turns to AM to Drive Growth, Product Innovation
 url: https://www.engineering.com/kennametal-turns-to-am-to-drive-growth-product-innovation/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kennametal" press release artificial intelligence'
 position: 5
 source: serpapi-google

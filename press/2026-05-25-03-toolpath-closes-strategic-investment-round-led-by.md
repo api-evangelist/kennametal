@@ -1,7 +1,9 @@
 ---
 title: Toolpath Closes Strategic Investment Round, Led by ...
 url: https://toolpath.com/blog/toolpath-closes-strategic-investment-round-led-by-kennametal
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kennametal" press release artificial intelligence'
 position: 3
 source: serpapi-google

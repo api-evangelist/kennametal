@@ -1,7 +1,9 @@
 ---
 title: Kennametal is leading the future of digital machining with ...
 url: https://www.facebook.com/KennametalInc/posts/kennametal-is-leading-the-future-of-digital-machining-with-ai-powered-solutions-/1191305929836967/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kennametal" press release artificial intelligence'
 position: 4
 source: serpapi-google
